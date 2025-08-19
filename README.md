@@ -46,12 +46,11 @@ pip install -r requirements.txt
 
 jupyter notebook TelecomX_LATAM.ipynb
 
-
-##📊 **Resumen de Resultados**
+## 📊 Resumen de resultados
 
 Tras el análisis exploratorio, los hallazgos más relevantes fueron:
 
-###📌 Factores principales de cancelación:
+### 📌 Factores principales de cancelación:
 
 Los clientes con contratos mensuales presentan una tasa de churn más alta en comparación con contratos a largo plazo.
 
@@ -59,17 +58,17 @@ El uso de servicios adicionales (Internet, teléfono, TV) influye directamente e
 
 El monto de facturación mensual resultó un predictor clave: clientes con cargos elevados tienen mayor propensión a cancelar.
 
-###📌 Segmentos de riesgo:
+### 📌 Segmentos de riesgo:
 
 Clientes con pocos meses de antigüedad son más propensos a cancelar.
 
 El churn se concentra más en clientes que pagan mes a mes frente a quienes usan tarjetas o débitos automáticos.
 
-###📌 Visualizaciones estratégicas:
+### 📌 Visualizaciones estratégicas:
 Se desarrollaron gráficos que muestran la distribución del churn, comparaciones entre clientes que cancelaron y los que permanecieron, y relaciones entre variables clave.
 
 
-###📌 Conclusión
+### 📌 Conclusión:
 El análisis permitió identificar variables críticas en la evasión de clientes, destacando el tipo de contrato, el método de pago y los montos facturados.
 Estos resultados servirán como base para el desarrollo de modelos predictivos de churn y el diseño de estrategias de retención personalizadas.
 
