@@ -29,7 +29,7 @@ El objetivo principal es **comprender los factores que explican la pérdida de c
 1. **Clonar el repositorio**  
 
    ```bash
-   git clone https://github.com/TU_USUARIO/TelecomX-Churn.git
+   git clone https://github.com/HectorCano96/challenge_telecomX_1.git
    cd TelecomX-Churn
    
 3. **Crear y activar un entorno virtual (opcional, recomendado)**
