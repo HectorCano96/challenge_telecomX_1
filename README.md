@@ -18,7 +18,7 @@ El objetivo principal es **comprender los factores que explican la pérdida de c
 
 ## 📂 Estructura del repositorio
 
-📦 TelecomX-Churn
+📦 challenge_telecomX_1
 ┣ 📜 README.md
 ┣ 📜 TelecomX_LATAM.ipynb
 
